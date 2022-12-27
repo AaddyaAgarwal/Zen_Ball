@@ -1,1 +1,2 @@
-# Zen_Ball
+# synchronousBallMovement
+Ball moving synchronously
